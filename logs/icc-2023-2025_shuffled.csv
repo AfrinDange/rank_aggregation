@@ -1,0 +1,10 @@
+dataset,metric,direct_prompt,explicit_chain_of_thought,self_consistency,implicit_chain_of_thought
+icc-2023-2025,kendalltau-tau,0.6666666666666666,0.8333333333333334,0.6666666666666666,0.8333333333333334
+icc-2023-2025,kendalltau-pvalue,0.012665343915343916,0.0008542768959435626,0.012665343915343916,0.0008542768959435626
+icc-2023-2025,spearman-rho,0.8499999999999999,0.9333333333333332,0.8499999999999999,0.9333333333333332
+icc-2023-2025,spearman-pvalue,0.003704777327585813,0.00023589981215941676,0.003704777327585813,0.00023589981215941676
+icc-2023-2025,top_3_accuracy,1.0,1.0,1.0,1.0
+icc-2023-2025,top_5_accuracy,1.0,1.0,1.0,1.0
+icc-2023-2025,ndcg,0.9237339513366495,0.9574965272155285,0.9237339513366495,0.9574965272155285
+icc-2023-2025,gold_ranking,"['South Africa', 'Australia', 'India', 'New Zealand', 'England', 'Sri Lanka', 'Bangladesh', 'West Indies', 'Pakistan']","['South Africa', 'Australia', 'India', 'New Zealand', 'England', 'Sri Lanka', 'Bangladesh', 'West Indies', 'Pakistan']","['South Africa', 'Australia', 'India', 'New Zealand', 'England', 'Sri Lanka', 'Bangladesh', 'West Indies', 'Pakistan']","['South Africa', 'Australia', 'India', 'New Zealand', 'England', 'Sri Lanka', 'Bangladesh', 'West Indies', 'Pakistan']"
+icc-2023-2025,predicted_ranking,"['Australia', 'South Africa', 'India', 'England', 'New Zealand', 'Pakistan', 'Sri Lanka', 'West Indies', 'Bangladesh']","['South Africa', 'Australia', 'India', 'England', 'New Zealand', 'Sri Lanka', 'Pakistan', 'Bangladesh', 'West Indies']","['Australia', 'South Africa', 'India', 'England', 'New Zealand', 'Pakistan', 'Sri Lanka', 'West Indies', 'Bangladesh']","['South Africa', 'Australia', 'India', 'England', 'New Zealand', 'Sri Lanka', 'Pakistan', 'Bangladesh', 'West Indies']"

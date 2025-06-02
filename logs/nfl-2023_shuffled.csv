@@ -1,0 +1,10 @@
+dataset,metric,direct_prompt
+nfl-2023,kendalltau-tau,0.12096774193548389
+nfl-2023,kendalltau-pvalue,0.34153305448057775
+nfl-2023,spearman-rho,0.18328445747800584
+nfl-2023,spearman-pvalue,0.3153295682569576
+nfl-2023,top_3_accuracy,0.3333333333333333
+nfl-2023,top_5_accuracy,0.8
+nfl-2023,ndcg,0.7802498908284358
+nfl-2023,gold_ranking,"['Baltimore Ravens', 'Dallas Cowboys', 'Detroit Lions', 'San Francisco 49ers', 'Buffalo Bills', 'Cleveland Browns', 'Kansas City Chiefs', 'Miami Dolphins', 'Philadelphia Eagles', 'Houston Texans', 'Los Angeles Rams', 'Pittsburgh Steelers', 'Cincinnati Bengals', 'Green Bay Packers', 'Indianapolis Colts', 'Jacksonville Jaguars', 'New Orleans Saints', 'Seattle Seahawks', 'Tampa Bay Buccaneers', 'Denver Broncos', 'Las Vegas Raiders', 'Atlanta Falcons', 'Chicago Bears', 'Minnesota Vikings', 'New York Jets', 'New York Giants', 'Tennessee Titans', 'Los Angeles Chargers', 'Arizona Cardinals', 'New England Patriots', 'Washington Commanders', 'Carolina Panthers']"
+nfl-2023,predicted_ranking,"['San Francisco 49ers', 'Kansas City Chiefs', 'Dallas Cowboys', 'Detroit Lions', 'Buffalo Bills', 'Baltimore Ravens', 'Cleveland Browns', 'Green Bay Packers', 'Houston Texans', 'Tampa Bay Buccaneers', 'New Orleans Saints', 'Las Vegas Raiders', 'Los Angeles Rams', 'Miami Dolphins', 'Jacksonville Jaguars', 'Cincinnati Bengals', 'Philadelphia Eagles', 'New York Jets', 'Minnesota Vikings', 'Los Angeles Chargers', 'Pittsburgh Steelers', 'Atlanta Falcons', 'Arizona Cardinals', 'Seattle Seahawks', 'Tennessee Titans', 'New York Giants', 'Denver Broncos', 'Indianapolis Colts', 'Washington Commanders', 'New England Patriots', 'Chicago Bears', 'Carolina Panthers']"

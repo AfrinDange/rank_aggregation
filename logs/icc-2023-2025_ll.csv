@@ -1,0 +1,10 @@
+dataset,metric,implicit_chain_of_thought
+icc-2023-2025,kendalltau-tau,0.7777777777777778
+icc-2023-2025,kendalltau-pvalue,0.0024250440917107582
+icc-2023-2025,spearman-rho,0.9166666666666666
+icc-2023-2025,spearman-pvalue,0.0005066190663052084
+icc-2023-2025,top_3_accuracy,1.0
+icc-2023-2025,top_5_accuracy,1.0
+icc-2023-2025,ndcg,0.9566524035484871
+icc-2023-2025,gold_ranking,"['South Africa', 'Australia', 'India', 'New Zealand', 'England', 'Sri Lanka', 'Bangladesh', 'West Indies', 'Pakistan']"
+icc-2023-2025,predicted_ranking,"['South Africa', 'India', 'Australia', 'England', 'New Zealand', 'Sri Lanka', 'Pakistan', 'Bangladesh', 'West Indies']"
